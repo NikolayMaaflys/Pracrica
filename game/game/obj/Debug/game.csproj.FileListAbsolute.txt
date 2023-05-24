@@ -1,0 +1,16 @@
+C:\Users\kokolaka\Desktop\wpf\game\game\bin\Debug\game.exe.config
+C:\Users\kokolaka\Desktop\wpf\game\game\bin\Debug\game.exe
+C:\Users\kokolaka\Desktop\wpf\game\game\bin\Debug\game.pdb
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\MainWindow.g.cs
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\App.g.cs
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game_MarkupCompile.cache
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game_MarkupCompile.lref
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\MainWindow.baml
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.g.resources
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.exe
+C:\Users\kokolaka\Desktop\wpf\game\game\obj\Debug\game.pdb
